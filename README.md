@@ -4,3 +4,4 @@ Web scrapping
 - Nepal Emergency Number
 - Exchange Rate
 - Ecommerce 
+- Nepal Stocks
